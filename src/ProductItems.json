@@ -1,0 +1,107 @@
+[
+  {
+    "title": "1 Sonos Compact Smart Speaker",
+    "image": "/images/red1.jpeg",
+    "color": "red",
+    "price": 1500,
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit tempora, necessitatibus quos assumenda animi fugit, nobis tempore voluptate quis reiciendis nihil dolores. Quae non esse saepe blanditiis quam voluptas neque?"
+  }, 
+  {
+    "title": "2 AIAIAI TMA-2 Headphones",
+    "image": "/images/grey1.jpeg",
+    "color": "grey",
+    "price": 800,
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit tempora, necessitatibus quos assumenda animi fugit, nobis tempore voluptate quis reiciendis nihil dolores. Quae non esse saepe blanditiis quam voluptas neque?"
+  },
+  {
+    "title": "3 Sonos One",
+    "image": "/images/olive2.jpeg",
+    "color": "olive",
+    "price": 1300,
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit tempora, necessitatibus quos assumenda animi fugit, nobis tempore voluptate quis reiciendis nihil dolores. Quae non esse saepe blanditiis quam voluptas neque?"
+  },
+  {
+    "title": "4 Bang & Olufsen Balance",
+    "image": "/images/purple1.jpeg",
+    "color": "purple",
+    "price": 750,
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit tempora, necessitatibus quos assumenda animi fugit, nobis tempore voluptate quis reiciendis nihil dolores. Quae non esse saepe blanditiis quam voluptas neque?"
+  },
+  {
+    "title": "5 Bang & Olufsen Circular Speaker",
+    "image": "/images/black3.jpeg",
+    "color": "black",
+    "price": 850,
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit tempora, necessitatibus quos assumenda animi fugit, nobis tempore voluptate quis reiciendis nihil dolores. Quae non esse saepe blanditiis quam voluptas neque?"
+  },
+  {
+    "title": "6 Sonos Compact Smart Speaker",
+    "image": "/images/blue2.jpeg",
+    "color": "blue",
+    "price": 1112,
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit tempora, necessitatibus quos assumenda animi fugit, nobis tempore voluptate quis reiciendis nihil dolores. Quae non esse saepe blanditiis quam voluptas neque?"
+  }, 
+  {
+    "title": "7 AIAIAI TMA-2 Headphones",
+    "image": "/images/blue3.jpeg",
+    "color": "blue",
+    "price": 560,
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit tempora, necessitatibus quos assumenda animi fugit, nobis tempore voluptate quis reiciendis nihil dolores. Quae non esse saepe blanditiis quam voluptas neque?"
+  },
+  {
+    "title": "8 Sonos One",
+    "image": "/images/black1.jpeg",
+    "color": "black",
+    "price": 300,
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit tempora, necessitatibus quos assumenda animi fugit, nobis tempore voluptate quis reiciendis nihil dolores. Quae non esse saepe blanditiis quam voluptas neque?"
+  },
+  {
+    "title": "9 Bang & Olufsen Balance",
+    "image": "/images/blue4.jpeg",
+    "color": "blue",
+    "price": 500,
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit tempora, necessitatibus quos assumenda animi fugit, nobis tempore voluptate quis reiciendis nihil dolores. Quae non esse saepe blanditiis quam voluptas neque?"
+  },
+  {
+    "title": "10 Bang & Olufsen Circular Speaker",
+    "image": "/images/red2.jpeg",
+    "color": "red",
+    "price": 800,
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit tempora, necessitatibus quos assumenda animi fugit, nobis tempore voluptate quis reiciendis nihil dolores. Quae non esse saepe blanditiis quam voluptas neque?"
+  },
+  {
+    "title": "11 Sonos Compact Smart Speaker",
+    "image": "/images/grey2.jpeg",
+    "color": "grey",
+    "price": 600,
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit tempora, necessitatibus quos assumenda animi fugit, nobis tempore voluptate quis reiciendis nihil dolores. Quae non esse saepe blanditiis quam voluptas neque?"
+  }, 
+  {
+    "title": "12 AIAIAI TMA-2 Headphones",
+    "image": "/images/olive1.jpeg",
+    "color": "olive",
+    "price": 400,
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit tempora, necessitatibus quos assumenda animi fugit, nobis tempore voluptate quis reiciendis nihil dolores. Quae non esse saepe blanditiis quam voluptas neque?"
+  },
+  {
+    "title": "13 Sonos One",
+    "image": "/images/purple2.jpeg",
+    "color": "purple",
+    "price": 1000,
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit tempora, necessitatibus quos assumenda animi fugit, nobis tempore voluptate quis reiciendis nihil dolores. Quae non esse saepe blanditiis quam voluptas neque?"
+  },
+  {
+    "title": "14 Bang & Olufsen Balance",
+    "image": "/images/black2.jpeg",
+    "color": "black",
+    "price": 1500,
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit tempora, necessitatibus quos assumenda animi fugit, nobis tempore voluptate quis reiciendis nihil dolores. Quae non esse saepe blanditiis quam voluptas neque?"
+  },
+  {
+    "title": "15 Senheiser CX 400BT",
+    "image": "/images/blue1.jpeg",
+    "color": "blue",
+    "price": 1200,
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit tempora, necessitatibus quos assumenda animi fugit, nobis tempore voluptate quis reiciendis nihil dolores. Quae non esse saepe blanditiis quam voluptas neque?"
+  }
+]
