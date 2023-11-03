@@ -1,6 +1,6 @@
 # Getting Started with the project
-First clone the project or download the ip file.
-Then move into the project directory and run the command - `npm install`.
+First clone the project or download the zip file.\
+Then move into the project directory and run the command - `npm install`.\
 After the installation is complete then run `npm start`.
 
 # `npm install`
